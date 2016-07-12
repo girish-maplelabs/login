@@ -1,1 +1,1 @@
-print "hello"
+int "hello"
